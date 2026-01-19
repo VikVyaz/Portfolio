@@ -15,7 +15,7 @@
 
 ## 📚 Проекты
 
-### Supply Retail Chain
+### --Supply Retail Chain--
 * **Стак:**
   * Python 3.12
   * Django
@@ -33,7 +33,7 @@
 
 🔗 Repository: https://github.com/VikVyaz/retail_chain
 
-### Bulletin Board
+### --Bulletin Board--
 * **Стак:**
   * Python 3.12
   * Django
@@ -61,7 +61,7 @@
 🔗 Repository: https://github.com/VikVyaz/bulletin_board
 
 
-### Habit Tracker
+### --Habit Tracker--
 * **Стак:**
   * Python 3.12
   * Django
