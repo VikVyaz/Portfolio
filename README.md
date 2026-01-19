@@ -71,7 +71,7 @@
   * Redis
   * PostgreSQL
   * JWT
-  * pytest
+  * unittest
   * Swagger/Redoc
   * Docker
   * Docker-compose
