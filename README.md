@@ -59,3 +59,31 @@
   * реализация email-уведомлений c использование Celery и Celery-beat
 
 🔗 Repository: https://github.com/VikVyaz/bulletin_board
+
+
+### Habit Tracker
+* **Стак:**
+  * Python 3.12
+  * Django
+  * DRF
+  * Celery
+  * Celery-beat
+  * Redis
+  * PostgreSQL
+  * JWT
+  * pytest
+  * Swagger/Redoc
+  * Docker
+  * Docker-compose
+  * CORS-конфигурация
+  * GitHub Actions CI/CD
+  * Nginx
+* **Описание:** Бэкенд API для сервиса с трекинга привычек с Telegram-информированием.
+* **Ключевые фичи:**
+  * локальный авто-деплой или на сервер при помощи Docker
+  * настроенная permission-среда
+  * покрытие тестами при помощи pytest
+  * хорошая защищенность CORS + Nginx на ВМ
+  * реализация Telegram-уведомлений c использование Celery и Celery-beat
+
+🔗 Repository: https://github.com/VikVyaz/Habit_tracker
